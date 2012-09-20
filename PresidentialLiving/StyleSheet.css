@@ -1,0 +1,38 @@
+﻿body
+{
+	background-color: #d3d3d3;
+	background-image: url(images/background.jpg);
+	background-repeat: repeat-x;
+}
+
+#frame
+{
+	width: 900px;
+	padding: 3px;
+	margin: auto;
+	background-color: #ffffff;
+	border: solid 0px #000000;
+}
+
+#banner
+{
+	height: 150px;
+	background-image: url(images/banner.jpg);
+}
+
+#navigation
+{
+}
+
+#maincontent
+{
+	background-image: url(images/main.jpg);
+	background-repeat: no-repeat;
+	background-color: #F5EAEE;
+}
+
+#footer
+{
+	width: 906px;
+	margin: auto;
+}
